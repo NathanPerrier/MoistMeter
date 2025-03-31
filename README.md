@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="/assets/logos/logoIcon.png.png" width="64" height="64" alt="MoistMeter logo">
+    <img src="./assets/logos/logoIcon.png.png" width="64" height="64" alt="MoistMeter logo">
     <h1>
         <a href="https://github.com/NathanPerrier/MoistMeter">
             MoistMeter
@@ -46,12 +46,6 @@ MAPBOX_ACCESS_TOKEN=""
 
 ```bash
 flutter pub get
-```
-
-> 👉 Configure **FireFlutter**
-
-```bash
-firebase_cli fireflutter configure  
 ```
 
 > 👉 Avtivate and configure **FireFlutter**
