@@ -34,7 +34,7 @@ jobs:
       - name: Use Flutter
         uses: subosito/flutter-action@v2
         with:
-          flutter-version: '^3.7.8'
+          flutter-version: '3.7.8'
       - name: Install dependencies
         run: flutter pub get
       - name: Build web
