@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "566242927621",
+    "project_id": "moist-meter",
+    "storage_bucket": "moist-meter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566242927621:android:18dbe42342c531a450286c",
+        "android_client_info": {
+          "package_name": "com.example.moistmeter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZdRDS71wL14jR5ntyOKwPHfARJMbnoOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
