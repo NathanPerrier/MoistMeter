@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./assets/logos/logoIcon.png.png" width="64" height="64" alt="MoistMeter logo">
+    <img src="./assets/logos/logoIcon.png" width="64" height="64" alt="MoistMeter logo">
     <h1>
         <a href="https://github.com/NathanPerrier/MoistMeter">
             MoistMeter
@@ -13,7 +13,7 @@
 <br />
 
 <div align="center">
-    <img src="./MoistMeterDemo.gif" alt="IA3 Demo">
+    <img src="./MoistMeterDemo.gif" alt="Demo">
 
 </div>
 
@@ -30,6 +30,8 @@ MoistMeter is an innovative app aimed to significantly reduce water wastage in a
 ## Our Team
 
 Made By Nathan Perrier, James Kenniwell, Saanvi Putchakayala, Malak Khorshid
+
+<br />
 
 ## Manual Build 
 
