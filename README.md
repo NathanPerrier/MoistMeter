@@ -21,11 +21,15 @@
 
 ## About The Project
 
-**🥳2025 UQIES SIC WINNER**
+**🥳 2025 UQIES SIC HACKATHON WINNER**
 
 MoistMeter is an innovative app aimed to significantly reduce water wastage in agriculture. Through using various APIs and services as well as the option to connect to custom IOT devices out algarithmic ML models determine the minimum amount of water required while still maximising crop yeild. While our app is aimed primarily at farmers, our app also offers cheaper or free plans for gardening enthusiasts as every drop counts!
 
 <br />
+
+## Our Team
+
+Made By Nathan Perrier, James Kenniwell, Saanvi Putchakayala, Malak Khorshid
 
 ## Manual Build 
 
